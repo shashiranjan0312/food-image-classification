@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+food-101/
+data/food-101/
+
+# TensorFlow / cache
+.cache/
+tensorflow_datasets/
+
+
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
