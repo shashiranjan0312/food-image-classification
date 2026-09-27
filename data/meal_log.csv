@@ -1,3 +1,5 @@
 date,time,meal_type,food,confidence,calories,protein,carbs,fat
 2026-09-23,22:13:02,Dinner,pizza,97.5,266,11.0,33.0,10.0
 2026-09-23,22:16:09,Dinner,pizza,97.5,266,11.0,33.0,10.0
+2026-09-24,23:28:16,Breakfast,pizza,97.5,266,11.0,33.0,10.0
+2026-09-24,23:29:37,Breakfast,samosa,91.51,262,5.0,32.0,12.0
